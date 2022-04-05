@@ -21,7 +21,7 @@ Illustration on arguments:
 * n_clients: the length of the raw input you setup in client.py should be the same as this argument
 * operation: developed operations are "mul" and "sub".
 * n_servers: number of servers, your commands should setup the same number as this argument.
-* n_computations: the same settings (servers, clients, operation) can be performed for n_computations times
+* n_computations: the same settings (servers, clients, operation) can be performed for n_computations times. After you run all servers and honest server, this is the times you can use python3 client.py.
 
 ## client.py
 An example of running client.py can be as follows
